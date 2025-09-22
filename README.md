@@ -1,7 +1,8 @@
 ## Hello World! 👋
 
 - Analista de Sistemas
-- Estudante de Desenvolvimento de Sistemas
+- Cientista de Dados
+- Desenvolvimento de Sistemas
 - SQL, Python, HTML, CSS
 <div>
   <img align="center" alt="Gaab-SQLServer" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
