@@ -1,9 +1,32 @@
 ## Hello World! 👋
 
-- Analista de Sistemas
-- Cientista de Dados
-- Desenvolvimento de Sistemas
-- SQL, Python, HTML, CSS
+I'm Gabriel,
+
+📊 Systems Analyst | 📈 Data Scientist in training
+
+🎓 Education:
+- Postgraduate in Data Science (in progress)
+
+- Technical Degree in Systems Development
+
+- Bachelor's Degree in Business Administration
+
+🛠️ Technologies & Tools
+
+💻 Languages & Frameworks:
+
+- 🐍 Python · 🐘 SQL · 🌐 HTML5 · 🎨 CSS3
+
+🗄️ Databases & Data Engineering:
+
+- 🐘 PostgreSQL · 🐬 MySQL · 🟦 SQLite
+
+⚙️ Version Control & DevOps:
+
+- 🌱 GitHub and GitLab
+
+##
+
 <div>
   <img align="center" alt="Gaab-SQLServer" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Gaab-Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -20,7 +43,6 @@
 
 ##
 
-<div> 
-  <a href="https://www.linkedin.com/in/gabrielsilvaIT/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+🌐 Connect with me
+<p align="center"> <a href="https://www.linkedin.com/in/gabrielaraujoit/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="https://www.instagram.com/_gaabaraujo_/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" height="40"/> </a> </p>
 
